@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A beginner-friendly personal portfolio built with HTML and CSS for the Basic HTML & CSS course. It introduces the developer, describes current skills, showcases practice projects, links to GitHub, and provides a Formspree-ready contact form.
+A beginner-friendly personal portfolio built with HTML and CSS for the Basic HTML & CSS course. It introduces the developer, describes current skills, showcases practice projects, links to GitHub, and provides a contact form connected to Formspree endpoint `https://formspree.io/f/xgaoqdeo` (test after deployment).
 
 ## Features
 
@@ -67,3 +67,11 @@ See `PUSH-TO-GITHUB.md` for steps to upload this folder to your Portfolio reposi
 
 - GitHub profile: https://github.com/HarjeetAOL
 - Portfolio repository: https://github.com/HarjeetAOL/Portfolio
+
+
+## Assignment checklist
+
+- Personalized Home, About, GitHub, Projects, and Contact content.
+- Customized typography, colour palette, and hover interactions.
+- Responsive layout and in-page navigation.
+- Contact form configured with Formspree; test submissions from the live site.
